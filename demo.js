@@ -1,3 +1,4 @@
 var a=100;
-var b=200
-console.log(a+b);
+var b=200;
+var c=300;
+console.log(a+b+c);
